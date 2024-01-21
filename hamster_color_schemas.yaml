@@ -1,0 +1,103 @@
+colorSchemas:
+  - schemaName: orange_mdy
+    name: Orange
+    author: 黄石 <yzlnew@gmail.com>/yzlnew <yzlnew@gmail.com>
+    back_color: "0xD9D3D0"
+    button_back_color: "0xF5F8FF"
+    button_pressed_back_color: "0xD0D0D0"
+    button_bubble_back_color: "0xD0D0D0"
+    button_foreground_color: "0x141A22"
+    button_pressed_foreground_color: "0x141A22"
+    button_swipe_foreground_color: "0x3B4452"
+    font_size: 20
+    swipe_font_size: 14
+    corner_radius: 5
+    border_color: "0x6A7484"
+    text_color: "0x000000"
+    lower_edge_col: "0x3B4452"
+    shadow_color: "0x141A22"
+    shadow_size: 0
+    hilited_candidate_back_color: "0xC4DCFF"
+    hilited_candidate_text_color: "0x205089"
+    hilited_candidate_label_color: "0x205089"
+    hilited_comment_text_color: "0x256553"
+    candidate_text_color: "0x455974"
+    comment_text_color: "0x004D3A"
+    label_color: "0x455974"
+    hilited_callout_back_color: "0xC4DCFF"
+    hilited_callout_foreground_color: "0x001430"
+  - schemaName: isle
+    name: Isle of Dogs
+    author: 黄石 <yzlnew@gmail.com>/yzlnew <yzlnew@gmail.com>
+    back_color: 0xCDE1EE
+    button_back_color: 0xF048D7F8
+    button_pressed_back_color: 0x2533EA
+    button_bubble_back_color: 0xD0D0D0
+    button_foreground_color: 0x2533EA
+    button_pressed_foreground_color: 0x7389FF
+    button_swipe_foreground_color: 0x7389FF
+    font_size: 20
+    swipe_font_size: 12
+    corner_radius: 5
+    border_color: 0x55C2D3
+    text_color: 0x3B7BCB
+    lower_edge_col: 0xCCCCCC
+    shadow_color: 0xB0B0B0
+    shadow_size: 0
+    hilited_candidate_back_color: 0x48D7F8
+    hilited_candidate_text_color: 0x2533EA
+    hilited_candidate_label_color: 0xCC8947
+    hilited_comment_text_color: 0x289989
+    candidate_text_color: 0x7389FF
+    comment_text_color: 0x934E1F
+    label_color: 0x3B7BCB
+    hilited_callout_back_color: 0xFFFFFF
+    hilited_callout_foreground_color: 0x000000
+  - schemaName: solarized_dark
+    name: 曬經・月／Solarized Dark
+    author: 雪齋 <lyc20041@gmail.com>/Morse <morse.hsiao@gmail.com>
+    back_color: 0xF0352A0A # 键盘背景色
+    button_back_color: 0xF0352A0A # 按键背景色
+    button_pressed_back_color: 0x403516 # 按下时按键背景色
+    button_foreground_color: 0x7389FF # 按键上文字颜色
+    button_pressed_foreground_color: 0x7389FF # 按下时按键上文字颜色
+    button_swipe_foreground_color: 0x7389FF # 按键上划动文字的颜色
+    corner_radius: 5 # 按键圆角半径
+    border_color: 0x2A1F00 # 按键边框颜色
+    text_color: 0x756E5D # 组字区域文字颜色
+    hilited_candidate_back_color: 0x403516 # 候选栏首选文字区域背景色
+    hilited_candidate_text_color: 0x989F52 # 候选栏首选文字颜色
+    hilited_comment_text_color: 0x289989 # 候选栏首选文字 Comment 信息颜色
+    hilited_candidate_label_color: 0xCC8947 # 候选栏首选序号颜色
+    candidate_text_color: 0x7389FF # 候选栏次选文字颜色
+    comment_text_color: 0xC38AFF # 候选栏次选文字 Comment 信息颜色
+    label_color: 0x478DF4 # 候选栏次选序号颜色
+    hilited_callout_back_color: 0x403516 # 长按首选背景色
+    hilited_callout_foreground_color: 0x989F52 # 长按首选文字颜色
+    shadow_color: 0x330000 # 按键阴影
+    shadow_size: 3 # 阴影大小
+    button_bubble_back_color: 0xF0352A0A # 按键气泡颜色（可选），为空时使用 `button_back_color` 作为气泡颜色
+  - schemaName: solarized_light
+    name: 曬經・日／Solarized Light
+    author: 雪齋 <lyc20041@gmail.com>/Morse <morse.hsiao@gmail.com>
+    back_color: 0xF0E5F6FB # 键盘背景色
+    button_back_color: 0xF0E5F6FB # 按键背景色
+    button_pressed_back_color: 0xD7E8ED # 按下时按键背景色
+    button_foreground_color: 0x595E00 # 按键上文字颜色
+    button_pressed_foreground_color: 0x595E00 # 按下时按键上文字颜色
+    button_swipe_foreground_color: 0x595E00 # 按键上划动文字的颜色
+    corner_radius: 5 # 按键圆角半径
+    border_color: 0xEDFFFF # 按键边框颜色
+    text_color: 0xA1A095 # 组字区域文字颜色
+    hilited_candidate_back_color: 0xD7E8ED # 候选栏首选文字区域背景色
+    hilited_candidate_text_color: 0x3942CB # 候选栏首选文字颜色
+    hilited_comment_text_color: 0x8144C2 # 候选栏首选文字 Comment 信息颜色
+    hilited_candidate_label_color: 0x2566C6 # 候选栏首选序号颜色
+    candidate_text_color: 0x595E00 # 候选栏次选文字颜色
+    comment_text_color: 0x005947 # 候选栏次选文字 Comment 信息颜色
+    label_color: 0xA36407 # 候选栏次选序号颜色
+    hilited_callout_back_color: 0xD7E8ED # 长按首选背景色
+    hilited_callout_foreground_color: 0x3942CB # 长按首选文字颜色
+    shadow_color: 0x330000 # 按键阴影
+    shadow_size: 3 # 阴影大小
+    button_bubble_back_color: 0xF0E5F6FB # 按键气泡颜色（可选），为空时使用 `button_back_color` 作为气泡颜色
