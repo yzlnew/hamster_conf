@@ -26,9 +26,9 @@ toolbar:
   # 拼写区字体大小
   codingAreaFontSize: 20
   # 候选文字索引字体大小
-  candidateLabelFontSize: 20
+  candidateLabelFontSize: 18
   # 候选文字字体大小
-  candidateTextFontSize: 20
+  candidateTextFontSize: 22
   # 候选文字备注信息字体大小。
   # 对应 rime 候选字的 comment 信息
   candidateCommentFontSize: 14
@@ -66,7 +66,7 @@ keyboard:
 
   # 按键震动强度微调，用于微调 `hapticFeedbackIntensity` 级别
   # 值在 0.0 ~ 1 之间
-  hapticIntensity: 0.5
+  hapticIntensity: 1
 
   # 按键音量
   # 值在 0.0 ~ 1 之间
@@ -188,7 +188,9 @@ keyboard:
   # 键盘样式
   style:
     fontFace:
+      - url: "JetBrainsMono-Regular.ttf"
       - url: "LXGWWenKai-Regular.ttf"
+      # - url: "飞花宋体.otf"
       - name: "PingFangSC-Regular"
       # 字体名称可以用于引用系统已安装的字体，可通过以下网站查询字体名称
       # https://github.com/lionhylra/iOS-UIFont-Names

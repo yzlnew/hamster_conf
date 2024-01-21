@@ -1,21 +1,21 @@
 colorSchemas:
   - schemaName: orange_mdy
     name: Orange
-    author: 黄石 <yzlnew@gmail.com>/yzlnew <yzlnew@gmail.com>
+    author: "@yzlnew"
     back_color: "0xD9D3D0"
-    button_back_color: "0xF5F8FF"
-    button_pressed_back_color: "0xD0D0D0"
-    button_bubble_back_color: "0xD0D0D0"
-    button_foreground_color: "0x141A22"
+    button_back_color: "0xD6DFF0"
+    button_pressed_back_color: "0xA7BFE4"
+    button_bubble_back_color: "0xA7BFE4"
+    button_foreground_color: "0x001430"
     button_pressed_foreground_color: "0x141A22"
     button_swipe_foreground_color: "0x3B4452"
     font_size: 20
     swipe_font_size: 14
     corner_radius: 5
-    border_color: "0x6A7484"
+    border_color: "0xA7BFE4"
     text_color: "0x000000"
-    lower_edge_col: "0x3B4452"
-    shadow_color: "0x141A22"
+    lower_edge_col: "0x81B7FF"
+    shadow_color: "0x256553"
     shadow_size: 0
     hilited_candidate_back_color: "0xC4DCFF"
     hilited_candidate_text_color: "0x205089"

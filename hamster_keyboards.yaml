@@ -1,15 +1,15 @@
 customKeyStyles:
   mod:
-    buttonBackgroundColor: "0xD9D3D0"
-    pressedButtonBackgroundColor: "0xC4DCFF"
-    buttonForegroundColor: "0x205089"
-    pressedButtonForegroundColor: "0x001430"
+    buttonBackgroundColor: "0xA7BFE4"
+    pressedButtonBackgroundColor: "0x81B7FF"
+    buttonForegroundColor: "0x1A2B42"
+    pressedButtonForegroundColor: "0x1A2B42"
     swipeForegroundColor: "0x08172A"
     pressedSwipeForegroundColor: "0x08172A"
     cornerRadius: 5
     borderSize: 1
-    borderColor: "0x6A7484"
-    lowerEdgeColor: "0x3B4452"
+    borderColor: "0x81B7FF"
+    lowerEdgeColor: "0x81B7FF"
     shadowColor: "0x141A22"
     shadowSize: 0
 keyboards:
